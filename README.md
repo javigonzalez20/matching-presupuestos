@@ -14,5 +14,3 @@ El objetivo del proyecto es recuperar información relevante de materiales usado
 - Cross-encoder: `ms-marco-MiniLM-L-12-v2`
 - Selección final: coincidencia de medida
 
-## Estado
-Repositorio creado como soporte al TFM. Se irá completando con el código, ejemplos y documentación del sistema.
